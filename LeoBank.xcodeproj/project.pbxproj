@@ -12,6 +12,7 @@
 		FA5C1D7927A5B99000CE70FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA5C1D7827A5B99000CE70FD /* Assets.xcassets */; };
 		FA5C1D7C27A5B99000CE70FD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA5C1D7B27A5B99000CE70FD /* Preview Assets.xcassets */; };
 		FA5C1D8327A5BA5D00CE70FD /* StartPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5C1D8227A5BA5D00CE70FD /* StartPageView.swift */; };
+		FA5C1D8727A5BC5800CE70FD /* Color_Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5C1D8627A5BC5800CE70FD /* Color_Theme.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		FA5C1D7827A5B99000CE70FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA5C1D7B27A5B99000CE70FD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FA5C1D8227A5BA5D00CE70FD /* StartPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartPageView.swift; sourceTree = "<group>"; };
+		FA5C1D8627A5BC5800CE70FD /* Color_Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color_Theme.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				FA5C1D7427A5B98B00CE70FD /* LeoBankApp.swift */,
 				FA5C1D7627A5B98B00CE70FD /* ContentView.swift */,
 				FA5C1D8227A5BA5D00CE70FD /* StartPageView.swift */,
+				FA5C1D8627A5BC5800CE70FD /* Color_Theme.swift */,
 				FA5C1D7827A5B99000CE70FD /* Assets.xcassets */,
 				FA5C1D7A27A5B99000CE70FD /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA5C1D8327A5BA5D00CE70FD /* StartPageView.swift in Sources */,
+				FA5C1D8727A5BC5800CE70FD /* Color_Theme.swift in Sources */,
 				FA5C1D7727A5B98B00CE70FD /* ContentView.swift in Sources */,
 				FA5C1D7527A5B98B00CE70FD /* LeoBankApp.swift in Sources */,
 			);
